@@ -2,8 +2,9 @@
 Spine Degeneration Trajectory Modelling analysis scripts.
 
 ### Positional variance of events in the trajectory:
-[event_position_diagrams_composite.pdf](https://github.com/user-attachments/files/22205091/event_position_diagrams_composite.pdf)
+<img width="1468" height="1235" alt="event_position_diagrams" src="https://github.com/user-attachments/assets/ec9eff55-f093-4541-b7ac-d6a90014ac7e" />
+
 
 
 ### Upset plots showing feature sets across the population:
-[upsetr_by_subtype.pdf](https://github.com/user-attachments/files/22205059/upsetr_by_subtype.pdf)
+<img width="2760" height="1165" alt="upset_plot_by_subtype" src="https://github.com/user-attachments/assets/30325f5b-618d-4a5c-bf32-f92d6055f910" />
