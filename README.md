@@ -1,6 +1,6 @@
 # Spine Degeneration Trajectory Modelling
 
-Conference abstract ISSLS 2025 Atlanta, Georgia - podium presentation.
+### Conference abstract ISSLS 2025 Atlanta, Georgia - podium presentation:
 
 <img width="1953" height="1148" alt="Screenshot 2025-09-09 at 10 18 11" src="https://github.com/user-attachments/assets/bf5185b9-978e-4b41-ac6c-2770606e37c3" />
 
