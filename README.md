@@ -4,8 +4,7 @@
 
 <img width="1953" height="1148" alt="Screenshot 2025-09-09 at 10 18 11" src="https://github.com/user-attachments/assets/bf5185b9-978e-4b41-ac6c-2770606e37c3" />
 
-[EBM_schematic_and_study_flowchart.tiff](https://github.com/user-attachments/files/22763997/EBM_schematic_and_study_flowchart.tiff)
-
+<img width="2223" height="2057" alt="EBM_schematic_and_study_flowchart" src="https://github.com/user-attachments/assets/d09cbf55-c4f6-4192-bb37-dcd4aebf9464" />
 
 ### Positional variance of events in the trajectory:
 <img width="1462" height="1229" alt="Screenshot 2025-09-08 at 11 35 13" src="https://github.com/user-attachments/assets/b1c18c35-7f73-433e-b245-9976c40cde60" />
